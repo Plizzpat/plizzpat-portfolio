@@ -27,10 +27,3 @@ This portfolio contains structured examples of:
 
 All systems are written with structure, readability, and scalability in mind.
 
----
-
-## Philosophy
-
-Clean code > messy features  
-Structure > shortcuts  
-Server authority > client trust  
