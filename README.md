@@ -4,7 +4,6 @@ Roblox gameplay systems and scripting portfolio.
 ## About Me
 
 I specialize in creating clean and maintainable Roblox systems with proper server-side validation and organized architecture.  
-My goal is to build professional-quality systems that are easy to expand and optimize.
 
 I focus on:
 - Server-authoritative systems
